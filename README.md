@@ -1,5 +1,4 @@
 # webd152
-<!DOCTYPE html>
 <html lang="en">
 <head>	
 <title>My First HTML5 Web Page</title>
