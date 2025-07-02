@@ -29,6 +29,8 @@ nav {
     font-weight: bold; /* fwb */
     padding: 1em; /* p1em */
     text-align: center; /* tac */
+    text-decoration: none; /* txd */
+    color: #000032;
 
 }
 nav a {
