@@ -134,7 +134,7 @@ footer {
 
 
 table {
-    border-bottom: 1px solid #1976d2; /* bdb1-solid-#1976d2 */
+    border-bottom: 1px solid #3399cc; /* bdb1-solid-#3399cc */
     border-collapse: separate; /* bc */
 }
 td, th {
@@ -148,7 +148,7 @@ td {
     text-align: left; /* tal */ 
 }
 tr:nth-last-of-type(odd) {
-    background-color: #90c7e3; /* bgc#90c7e3 */
+    background-color: #f5fafc; /* bgc#f5fafc */
 }
 
 
