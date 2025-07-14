@@ -143,6 +143,9 @@ td, th {
 }
 td { 
     text-align: center; /* tac */
+    color: #fff;
+    font-weight: bold;
+
 }
 .txt {
     text-align: left; /* tal */ 
