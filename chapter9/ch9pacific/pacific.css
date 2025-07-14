@@ -147,7 +147,7 @@ td {
 .txt {
     text-align: left; /* tal */ 
 }
-tr:nth-last-of-type(odd) {
+tr:nth-of-type(odd) {
     background-color: #f5fafc; /* bgc#f5fafc */
 }
 
