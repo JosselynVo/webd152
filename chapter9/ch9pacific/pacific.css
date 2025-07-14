@@ -134,13 +134,13 @@ footer {
 
 
 table {
-    border-bottom: 1px solid #3399cc; /* bdb1-solid-#3399cc */
+    border-bottom: 1px solid #1976d2; /* bdb1-solid-#1976d2 */
     border-collapse: collapse; /* bc */
 }
 td, 
 th {
     padding: 0.5em; /* p0.5em */
-    /* border: 2px solid #39c; */
+    border: 2px solid #39c;
 }
 td { 
     text-align: center; /* tac */
