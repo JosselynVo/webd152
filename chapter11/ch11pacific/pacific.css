@@ -169,9 +169,6 @@ textarea {
 video {
     float: right; /* fr */
     margin: 1em; /* m1em */
-    width: 100%;
-    height: auto;
-    max-width:1280px;
 }
 
 #gallery {
