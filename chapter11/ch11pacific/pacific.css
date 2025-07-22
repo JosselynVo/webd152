@@ -181,6 +181,7 @@ video {
 #gallery img {
     box-shadow: 10px 10px 10px #777; /* bxsd */
     text-align: center; /* tac */
+    object-fit: contain;
 }
 
 @media (max-width: 600px) {
