@@ -132,7 +132,7 @@ footer {
     height: 300px; /* h300 */
 }
 
-
+ 
 
 table {
     border-bottom: 1px solid #1976d2; /* bdb1-solid-#1976d2 */
@@ -151,7 +151,7 @@ th {
     background-color: #1976d2;
     color: #fff;
 }
-.txt {
+.text {
     text-align: left; /* tal */ 
 }
 tr:nth-last-of-type(odd) {
@@ -178,13 +178,14 @@ video {
 #gallery img {
     box-shadow: 10px 10px 10px #777; /* bxsd */
     text-align: center; /* tac */
+    width: 100%; //MISSING
 }
 
 @media (max-width: 600px) {
     header {
         background-image: none; /* bgi:n */
     }
-    #homehero
+    #homehero, //MISSING comma
     #yurthero,
     #trailhero {
         background-size: auto; /* bgi:auto */
@@ -192,7 +193,7 @@ video {
     /* table styles for smartphone devices */
     #special table {
         display: block; /* db */
-        border: none; /* bd:n */
+        border-bottom: none; /* fixed */
     }
     #special td,
     #special th {
@@ -290,7 +291,7 @@ video {
     }
     nav {
        text-align-last: left; /* tal */
-       padding: 1em; /* p1em */
+       padding-left: 1em; /* p1em */
     }
     @supports (display: grid) {
         nav ul {
