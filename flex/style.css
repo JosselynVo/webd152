@@ -69,6 +69,14 @@ aside {
 		width: auto; margin: 0; }
 	h1 { 
 		font-size: 200%; }
+	#demo { 
+		flex-direction: column; 
+	      }
+	nav ul {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	}
 	nav li { 
 		padding: 0 0.5em; 
 		font-size: 1.2em; 	}
