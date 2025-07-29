@@ -186,12 +186,12 @@ video {
     text-align: center; /* tac */
     width: 100%;
 }
-.about-image1 {
+#bigsur {
     float:right; 
     margin-left: 20px; 
     margin-bottom: 20px;
 }
-.about-image2 {
+#yurt {
     float:left; 
     margin-top: 20px; 
     margin-right: 20px; 
