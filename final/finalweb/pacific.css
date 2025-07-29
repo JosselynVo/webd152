@@ -206,10 +206,7 @@ video {
     margin: 0 auto; /* m0-a */
     text-align: center; /* tac */
 }
-.team-section h2 {
-    margin: 15px; 
-    padding: 15px;
-}
+
 .team-container {
     display:flex; /* df */
     justify-content: space-around; /* jca */
