@@ -188,8 +188,8 @@ video {
     width: 100%;
 }
 
-.about {
-    font-size: 18;
+.about p {
+    font-size: 18px;
 }
 
 #bigsurphoto {
