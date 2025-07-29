@@ -193,6 +193,7 @@ video {
 }
 .about-image2 {
     float:left; 
+    margin-top: 20px; 
     margin-right: 20px; 
     margin-bottom: 20px;
 }
