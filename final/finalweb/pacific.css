@@ -207,7 +207,6 @@ video {
     display: flex; /* df */
     flex-wrap: wrap; /* fwr */
     justify-content: space-between; /* jc */
-    width:85%; /* w85% */
     margin: 0 auto; /* m0-a */
     text-align: center; /* tac */
 }
