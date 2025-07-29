@@ -183,6 +183,7 @@ video {
 }
 #gallery img {
     box-shadow: 10px 10px 10px #777; /* bxsd */
+    border-radius: 10px; /* br10px */
     text-align: center; /* tac */
     width: 100%;
 }
