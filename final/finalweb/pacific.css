@@ -191,9 +191,15 @@ video {
 
 #bigsurphoto {
     float:right; 
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 #yurtphoto {
     float:left; 
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 .team-section {
