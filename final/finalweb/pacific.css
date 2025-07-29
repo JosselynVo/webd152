@@ -186,16 +186,14 @@ video {
     text-align: center; /* tac */
     width: 100%;
 }
+
+
+
 #bigsurphoto {
     float:right; 
-    margin-left: 20px; 
-    margin-bottom: 20px;
 }
 #yurtphoto {
     float:left; 
-    margin-top: 20px; 
-    margin-right: 20px; 
-    margin-bottom: 20px;
 }
 
 .team-section {
