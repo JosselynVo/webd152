@@ -184,6 +184,7 @@ video {
 #gallery img {
     box-shadow: 10px 10px 10px #777; /* bxsd */
     text-align: center; /* tac */
+    width: 100%;
 }
 
 .team-section {
@@ -242,9 +243,9 @@ video {
     header {
         background-image: none; /* bgi:n */
     }
-    #homehero
+    #homehero,
     #yurthero,
-    #trailhero
+    #trailhero,
     #abouthero {
         background-size: auto; /* bgi:auto */
     }
