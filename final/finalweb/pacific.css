@@ -188,7 +188,9 @@ video {
     width: 100%;
 }
 
-
+.about {
+    font-size: 18;
+}
 
 #bigsurphoto {
     float:right; 
